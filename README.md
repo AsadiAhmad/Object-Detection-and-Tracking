@@ -29,3 +29,7 @@ This project uses a pre-trained Mask R-CNN model to detect and segment objects i
 ## 💻 Run the Notebook on Google Colab
 
 You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/AsadiAhmad/Object-Detection-and-Tracking/blob/main/Code/Object_Detection_and_Tracking.ipynb)
+
+## 🪪 License
+
+This project is licensed under the MIT License.

@@ -3,7 +3,7 @@
 This project uses a pre-trained Mask R-CNN model to detect and segment objects in video frames and then applies OpenCV’s CSRT tracker to follow the largest detected object across the video. The pipeline includes downloading pre-trained models, running detections, visualizing masks and bounding boxes, and exporting a tracked output video.
 
 <div display=flex align=center>
-  <img src="/Gif/race_car_tracked.gif" width="600px"/>
+  <img src="/Gif/race_car_tracked.gif" width="800px"/>
 </div>
 
 ## Tech :hammer_and_wrench: Languages and Tools :
